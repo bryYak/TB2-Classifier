@@ -1,0 +1,328 @@
+Running 81 experiments...
+
+▶️ [1/81] LR=0.0001, WD=0.0001, H=128, Drop=0.3
+   → val=2.466, test=2.834
+
+▶️ [2/81] LR=0.0001, WD=0.0001, H=128, Drop=0.4
+   → val=3.105, test=3.103
+
+▶️ [3/81] LR=0.0001, WD=0.0001, H=128, Drop=0.5
+   → val=2.824, test=3.264
+
+▶️ [4/81] LR=0.0001, WD=0.0001, H=256, Drop=0.3
+   → val=2.864, test=2.550
+
+▶️ [5/81] LR=0.0001, WD=0.0001, H=256, Drop=0.4
+   → val=3.449, test=3.911
+
+▶️ [6/81] LR=0.0001, WD=0.0001, H=256, Drop=0.5
+   → val=2.800, test=3.535
+
+▶️ [7/81] LR=0.0001, WD=0.0001, H=512, Drop=0.3
+   → val=3.288, test=2.553
+
+▶️ [8/81] LR=0.0001, WD=0.0001, H=512, Drop=0.4
+   → val=2.502, test=3.303
+
+▶️ [9/81] LR=0.0001, WD=0.0001, H=512, Drop=0.5
+   → val=2.552, test=3.087
+
+▶️ [10/81] LR=0.0001, WD=0.001, H=128, Drop=0.3
+   → val=2.979, test=3.564
+
+▶️ [11/81] LR=0.0001, WD=0.001, H=128, Drop=0.4
+   → val=2.670, test=3.023
+
+▶️ [12/81] LR=0.0001, WD=0.001, H=128, Drop=0.5
+   → val=3.294, test=2.714
+
+▶️ [13/81] LR=0.0001, WD=0.001, H=256, Drop=0.3
+   → val=2.821, test=2.978
+
+▶️ [14/81] LR=0.0001, WD=0.001, H=256, Drop=0.4
+   → val=3.380, test=3.502
+
+▶️ [15/81] LR=0.0001, WD=0.001, H=256, Drop=0.5
+   → val=3.359, test=4.095
+
+▶️ [16/81] LR=0.0001, WD=0.001, H=512, Drop=0.3
+   → val=2.395, test=3.240
+
+▶️ [17/81] LR=0.0001, WD=0.001, H=512, Drop=0.4
+   → val=3.639, test=3.552
+
+▶️ [18/81] LR=0.0001, WD=0.001, H=512, Drop=0.5
+   → val=2.567, test=2.405
+
+▶️ [19/81] LR=0.0001, WD=0.01, H=128, Drop=0.3
+   → val=3.209, test=2.976
+
+▶️ [20/81] LR=0.0001, WD=0.01, H=128, Drop=0.4
+   → val=2.450, test=2.940
+
+▶️ [21/81] LR=0.0001, WD=0.01, H=128, Drop=0.5
+   → val=3.165, test=2.977
+
+▶️ [22/81] LR=0.0001, WD=0.01, H=256, Drop=0.3
+   → val=3.284, test=2.133
+
+▶️ [23/81] LR=0.0001, WD=0.01, H=256, Drop=0.4
+   → val=2.364, test=3.068
+
+▶️ [24/81] LR=0.0001, WD=0.01, H=256, Drop=0.5
+   → val=2.843, test=3.102
+
+▶️ [25/81] LR=0.0001, WD=0.01, H=512, Drop=0.3
+   → val=3.068, test=3.289
+
+▶️ [26/81] LR=0.0001, WD=0.01, H=512, Drop=0.4
+   → val=3.366, test=3.510
+
+▶️ [27/81] LR=0.0001, WD=0.01, H=512, Drop=0.5
+   → val=3.220, test=3.169
+
+▶️ [28/81] LR=0.0003, WD=0.0001, H=128, Drop=0.3
+   → val=1.986, test=1.689
+
+▶️ [29/81] LR=0.0003, WD=0.0001, H=128, Drop=0.4
+   → val=2.121, test=2.016
+
+▶️ [30/81] LR=0.0003, WD=0.0001, H=128, Drop=0.5
+   → val=2.990, test=2.793
+
+▶️ [31/81] LR=0.0003, WD=0.0001, H=256, Drop=0.3
+   → val=2.010, test=2.577
+
+▶️ [32/81] LR=0.0003, WD=0.0001, H=256, Drop=0.4
+   → val=2.015, test=3.243
+
+▶️ [33/81] LR=0.0003, WD=0.0001, H=256, Drop=0.5
+   → val=2.103, test=2.451
+
+▶️ [34/81] LR=0.0003, WD=0.0001, H=512, Drop=0.3
+   → val=2.528, test=2.750
+
+▶️ [35/81] LR=0.0003, WD=0.0001, H=512, Drop=0.4
+   → val=2.408, test=2.579
+
+▶️ [36/81] LR=0.0003, WD=0.0001, H=512, Drop=0.5
+   → val=2.525, test=2.779
+
+▶️ [37/81] LR=0.0003, WD=0.001, H=128, Drop=0.3
+   → val=2.144, test=2.108
+
+▶️ [38/81] LR=0.0003, WD=0.001, H=128, Drop=0.4
+   → val=2.678, test=2.424
+
+▶️ [39/81] LR=0.0003, WD=0.001, H=128, Drop=0.5
+   → val=2.722, test=2.879
+
+▶️ [40/81] LR=0.0003, WD=0.001, H=256, Drop=0.3
+   → val=1.984, test=2.373
+
+▶️ [41/81] LR=0.0003, WD=0.001, H=256, Drop=0.4
+   → val=2.168, test=2.527
+
+▶️ [42/81] LR=0.0003, WD=0.001, H=256, Drop=0.5
+   → val=2.335, test=2.280
+
+▶️ [43/81] LR=0.0003, WD=0.001, H=512, Drop=0.3
+   → val=2.274, test=2.198
+
+▶️ [44/81] LR=0.0003, WD=0.001, H=512, Drop=0.4
+   → val=2.478, test=2.373
+
+▶️ [45/81] LR=0.0003, WD=0.001, H=512, Drop=0.5
+   → val=2.468, test=2.061
+
+▶️ [46/81] LR=0.0003, WD=0.01, H=128, Drop=0.3
+   → val=2.589, test=2.196
+
+▶️ [47/81] LR=0.0003, WD=0.01, H=128, Drop=0.4
+   → val=1.927, test=2.172
+
+▶️ [48/81] LR=0.0003, WD=0.01, H=128, Drop=0.5
+   → val=2.940, test=2.730
+
+▶️ [49/81] LR=0.0003, WD=0.01, H=256, Drop=0.3
+   → val=2.093, test=2.852
+
+▶️ [50/81] LR=0.0003, WD=0.01, H=256, Drop=0.4
+   → val=2.526, test=3.007
+
+▶️ [51/81] LR=0.0003, WD=0.01, H=256, Drop=0.5
+   → val=2.155, test=2.210
+
+▶️ [52/81] LR=0.0003, WD=0.01, H=512, Drop=0.3
+   → val=1.893, test=2.249
+
+▶️ [53/81] LR=0.0003, WD=0.01, H=512, Drop=0.4
+   → val=2.251, test=2.247
+
+▶️ [54/81] LR=0.0003, WD=0.01, H=512, Drop=0.5
+   → val=2.320, test=2.514
+
+▶️ [55/81] LR=0.001, WD=0.0001, H=128, Drop=0.3
+   → val=1.820, test=1.676
+
+▶️ [56/81] LR=0.001, WD=0.0001, H=128, Drop=0.4
+   → val=1.991, test=2.441
+
+▶️ [57/81] LR=0.001, WD=0.0001, H=128, Drop=0.5
+   → val=2.219, test=2.319
+
+▶️ [58/81] LR=0.001, WD=0.0001, H=256, Drop=0.3
+   → val=2.097, test=2.436
+
+▶️ [59/81] LR=0.001, WD=0.0001, H=256, Drop=0.4
+   → val=2.016, test=2.323
+
+▶️ [60/81] LR=0.001, WD=0.0001, H=256, Drop=0.5
+   → val=2.432, test=3.018
+
+▶️ [61/81] LR=0.001, WD=0.0001, H=512, Drop=0.3
+   → val=2.123, test=2.115
+
+▶️ [62/81] LR=0.001, WD=0.0001, H=512, Drop=0.4
+   → val=2.175, test=2.242
+
+▶️ [63/81] LR=0.001, WD=0.0001, H=512, Drop=0.5
+   → val=2.307, test=2.354
+
+▶️ [64/81] LR=0.001, WD=0.001, H=128, Drop=0.3
+   → val=2.260, test=2.296
+
+▶️ [65/81] LR=0.001, WD=0.001, H=128, Drop=0.4
+   → val=2.312, test=2.353
+
+▶️ [66/81] LR=0.001, WD=0.001, H=128, Drop=0.5
+   → val=2.022, test=2.666
+
+▶️ [67/81] LR=0.001, WD=0.001, H=256, Drop=0.3
+   → val=1.942, test=2.287
+
+▶️ [68/81] LR=0.001, WD=0.001, H=256, Drop=0.4
+   → val=1.987, test=2.484
+
+▶️ [69/81] LR=0.001, WD=0.001, H=256, Drop=0.5
+   → val=2.790, test=2.415
+
+▶️ [70/81] LR=0.001, WD=0.001, H=512, Drop=0.3
+   → val=2.425, test=2.677
+
+▶️ [71/81] LR=0.001, WD=0.001, H=512, Drop=0.4
+   → val=1.622, test=2.203
+
+▶️ [72/81] LR=0.001, WD=0.001, H=512, Drop=0.5
+   → val=2.302, test=2.980
+
+▶️ [73/81] LR=0.001, WD=0.01, H=128, Drop=0.3
+   → val=1.944, test=2.861
+
+▶️ [74/81] LR=0.001, WD=0.01, H=128, Drop=0.4
+   → val=1.904, test=2.257
+
+▶️ [75/81] LR=0.001, WD=0.01, H=128, Drop=0.5
+   → val=2.364, test=2.370
+
+▶️ [76/81] LR=0.001, WD=0.01, H=256, Drop=0.3
+   → val=2.255, test=2.077
+
+▶️ [77/81] LR=0.001, WD=0.01, H=256, Drop=0.4
+   → val=2.024, test=2.120
+
+▶️ [78/81] LR=0.001, WD=0.01, H=256, Drop=0.5
+   → val=1.978, test=2.251
+
+▶️ [79/81] LR=0.001, WD=0.01, H=512, Drop=0.3
+   → val=1.636, test=1.977
+
+▶️ [80/81] LR=0.001, WD=0.01, H=512, Drop=0.4
+   → val=1.755, test=1.925
+
+▶️ [81/81] LR=0.001, WD=0.01, H=512, Drop=0.5
+   → val=2.058, test=2.009
+
+✅ Best Config:
+{'lr': 0.001, 'weight_decay': 0.001, 'hidden_dim': 512, 'dropout': 0.4, 'val_mse': 1.6220097323329423, 'test_mse': 2.2029529678439754}
+
+▶️ [1/16] Global Hidden=24, Global_Output=8
+   → val=2.641, test=3.052
+
+▶️ [2/16] Global Hidden=24, Global_Output=16
+   → val=2.641, test=3.052
+
+▶️ [2/16] Global Hidden=24, Global_Output=16
+   → val=3.196, test=3.273
+
+▶️ [3/16] Global Hidden=24, Global_Output=24
+   → val=3.196, test=3.273
+
+▶️ [3/16] Global Hidden=24, Global_Output=24
+   → val=2.490, test=2.650
+
+▶️ [4/16] Global Hidden=24, Global_Output=32
+   → val=2.490, test=2.650
+
+▶️ [4/16] Global Hidden=24, Global_Output=32
+   → val=2.629, test=2.930
+
+▶️ [5/16] Global Hidden=40, Global_Output=8
+   → val=2.629, test=2.930
+
+▶️ [5/16] Global Hidden=40, Global_Output=8
+   → val=2.932, test=3.067
+
+▶️ [6/16] Global Hidden=40, Global_Output=16
+   → val=2.932, test=3.067
+
+▶️ [6/16] Global Hidden=40, Global_Output=16
+   → val=3.363, test=3.928
+
+▶️ [7/16] Global Hidden=40, Global_Output=24
+   → val=3.030, test=3.233
+
+▶️ [8/16] Global Hidden=40, Global_Output=32
+   → val=2.606, test=3.089
+
+▶️ [9/16] Global Hidden=56, Global_Output=8
+   → val=3.198, test=3.304
+
+▶️ [10/16] Global Hidden=56, Global_Output=16
+   → val=3.090, test=3.138
+
+▶️ [11/16] Global Hidden=56, Global_Output=24
+   → val=2.822, test=2.969
+
+▶️ [12/16] Global Hidden=56, Global_Output=32
+   → val=3.079, test=3.029
+
+▶️ [13/16] Global Hidden=64, Global_Output=8
+   → val=3.331, test=3.544
+
+▶️ [14/16] Global Hidden=64, Global_Output=16
+   → val=2.703, test=3.017
+
+▶️ [15/16] Global Hidden=64, Global_Output=24
+   → val=2.547, test=2.832
+
+▶️ [16/16] Global Hidden=64, Global_Output=32
+   → val=2.631, test=2.974
+
+✅ Best Config:
+{'global_hidden': 24, 'global_out': 24, 'val_mse': 2.4899183967617513, 'test_mse': 2.6497830299057297}
+
+▶️ [1/4] Global Hidden=32, Global_Output=8
+   → val=3.070, test=3.116
+
+▶️ [2/4] Global Hidden=32, Global_Output=16
+   → val=2.254, test=2.460
+
+▶️ [3/4] Global Hidden=32, Global_Output=24
+   → val=3.008, test=3.165
+
+▶️ [4/4] Global Hidden=32, Global_Output=32
+   → val=2.752, test=2.991
+
+✅ Best Config:
+{'global_hidden': 32, 'global_out': 16, 'val_mse': 2.254302984178774, 'test_mse': 2.4603445992120334}
